@@ -1,0 +1,10 @@
+pandas
+numpy
+scipy
+scikit-learn
+rapidfuzz
+joblib
+tqdm
+jupyter
+ipykernel
+anyascii
